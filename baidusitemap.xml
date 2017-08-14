@@ -3,14 +3,73 @@
 
 
     
+  <url>
+    <loc>http://yoursite.com/2017/vue/</loc>
+    <lastmod>2017-08-14T06:13:54.814Z</lastmod>
+    <data>
+        <display>
+        <title>vue笔记</title>
+        <pubTime>2017-04-28T05:56:54.000Z</pubTime>
+        
+        <tag>vue 学习</tag>
+         
+         
+           
+             
+              <breadCrumb title="Study" url="http://yoursite.com/categories/Study/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/react/</loc>
+    <lastmod>2017-08-14T05:54:54.802Z</lastmod>
+    <data>
+        <display>
+        <title>react进阶</title>
+        <pubTime>2017-02-21T04:32:07.000Z</pubTime>
+        
+        <tag>学习 react</tag>
+         
+         
+           
+             
+              <breadCrumb title="Study" url="http://yoursite.com/categories/Study/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2017/ReactJs/</loc>
+    <lastmod>2017-08-14T05:52:54.195Z</lastmod>
+    <data>
+        <display>
+        <title>一看就懂的ReactJs入门</title>
+        <pubTime>2017-02-10T04:32:07.000Z</pubTime>
+        
+        <tag>学习 react</tag>
+         
+         
+           
+             
+              <breadCrumb title="Study" url="http://yoursite.com/categories/Study/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
   <url>
     <loc>http://yoursite.com/2017/hello-world/</loc>
-    <lastmod>2017-08-09T10:51:50.891Z</lastmod>
+    <lastmod>2017-08-14T04:14:22.063Z</lastmod>
     <data>
         <display>
         <title>Start My Blog Trip — Power By Hexo</title>
-        <pubTime>2017-07-10T15:49:28.000Z</pubTime>
+        <pubTime>2017-01-10T15:49:28.000Z</pubTime>
         
         <tag>Hexo</tag>
          
@@ -23,6 +82,7 @@
     </data>
     </url>
 
+    
     
   <url>
     <loc>http://yoursite.com/2017/graduation-speech/</loc>

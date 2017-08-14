@@ -1,2 +1,4 @@
 http://yoursite.com/2017/graduation-speech/
-http://yoursite.com/2017/hello-world/
+http://yoursite.com/2017/vue/
+http://yoursite.com/2017/react/
+http://yoursite.com/2017/ReactJs/
